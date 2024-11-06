@@ -1,0 +1,7 @@
+# Fichiers et dossiers temporaires
+*.tmp
+*.log
+# Dossier contenant des données de l'utilisateur
+data/
+# Configurations spécifiques à votre éditeur
+.vscode/
